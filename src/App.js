@@ -15,7 +15,7 @@ function App() {
         <h2 className="divStyle">useReducer</h2>
         <UseReducer></UseReducer>
 
-        <h2 className="divStyle">useReducer</h2>
+        <h2 className="divStyle">useRef</h2>
         <UseRef></UseRef>
       </div>
       <div className="userDiv">
