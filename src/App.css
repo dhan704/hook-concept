@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.divStyle{
+  margin: 10px;
+}
+.reducerMainDiv{
+  padding: 20px;
+  width: 100px;
+}
+.mainDiv{
+  display: flex;
+}
+.userDiv{
+  margin-left: 50px;
+}
