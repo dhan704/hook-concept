@@ -1,5 +1,6 @@
 import "./App.css";
 import StateTutorial from "./components/StateTutorial";
+import UseMemo from "./components/UseMemo";
 import UseReducer from "./components/UseReducer";
 import UseRef from "./components/UseRef";
 import Users from "./components/Users";
@@ -23,6 +24,9 @@ function App() {
         <Users></Users>
         <h2>Users - CUSTOM HOOK(User is Online/Offline)</h2>
         <UserStatus></UserStatus>
+      </div>
+      <div>
+        <UseMemo></UseMemo>
       </div>
     </div>
   );
